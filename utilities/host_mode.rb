@@ -4,7 +4,7 @@
    end
 
 def self.ip_address
-     "192.168.1.24"
+     "10.58.0.110"
    end
 
  end
