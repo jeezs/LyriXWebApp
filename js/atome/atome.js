@@ -738,6 +738,7 @@ function idb_list(dbname) {
         });
 }
 
+
 // Supprimer des données
 function idb_remove(dbname, filename) {
     const dbToUse = db ? db.name : dbname;
